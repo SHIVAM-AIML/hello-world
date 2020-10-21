@@ -1,2 +1,2 @@
 # hello-world
-This is a part of completing the tutorial
+Hi , Iam new to github but working to gain due knowledge abut it . I came to know about this due to DSC vit bhopal
